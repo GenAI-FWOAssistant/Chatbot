@@ -28,6 +28,8 @@ smolagents>=0.1.4
 wikipedia>=1.4.0
 google-genai>=0.4.0
 ddgs>=2.3.0
+langchain-mcp
+
 
 # --- UI / Interaction ---
 gradio>=4.44.0
